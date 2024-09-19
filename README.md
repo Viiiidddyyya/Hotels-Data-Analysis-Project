@@ -12,4 +12,12 @@
       3. Merging data
       4. Aggregation
 # Step-4 Insights Generation
-* 
+* Created insights on the following
+1. What is an average occupancy rate in each of the room categories?
+2. Print average occupancy rate per city
+3. When was the occupancy better? Weekday or Weekend?
+4. In the month of June, what is the occupancy for different cities
+5. We got new data for the month of august. Append that to existing data
+6. Print revenue realized per city and Print month by month revenue
+7. Print revenue realized per hotel type,Print average rating per city
+8. Print a pie chart of revenue realized per booking platform
