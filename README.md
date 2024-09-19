@@ -1,5 +1,5 @@
 # Hotels-Data-Analysis-Project
-## [Hotel DataAnalysis](https://github.com/Viiiidddyyya/Hotels-Data-Analysis-Project/blob/main/exercise_solution.ipynb)
+## [Hotel DataAnalysis](https://github.com/Viiiidddyyya/Hotels-Data-Analysis-Project/blob/main/Hotel%20Data%20Analysis.ipynb)
 # Step-1: Data Import and Exploration
 * Read the data into the data frame later start exploring the bookings,date,hotel,rooms related data
 # Step-2: Data Cleaning
